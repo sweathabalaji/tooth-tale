@@ -17,7 +17,7 @@ Develop a user-friendly application that allows:
 
 ### Frontend
 - **React.js**
-- Tailwind CSS or Material-UI (Optional)
+- Tailwind CSS or Material-UI 
 
 ### Backend
 - **Node.js** + **Express.js**
@@ -45,17 +45,6 @@ Develop a user-friendly application that allows:
 - Add a description or note for each image
 - Save this data to MongoDB for patient access
 
----
-
-## ⚙️ Features
-
-- 🗂️ File upload using **Multer**
-- 📝 Notes/Descriptions stored with images
-- 🧾 Generate **PDF reports** from results
-- 🔒 JWT-based Authentication (Optional Bonus)
-- 📱 Responsive UI for all devices
-- 🚀 Deployed Frontend and Backend (Optional Bonus)
-- 🔁 Real-time updates using sockets or polling (Optional Bonus)
 
 
 
